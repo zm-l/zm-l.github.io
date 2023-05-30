@@ -32,16 +32,9 @@ timezone: Asia/Singapore
 # Author and Social
 author:
   name: "Lau Zhan Ming"
-  avatar: "/assets/images/bio.PNG"
-  bio: "Newbie here =.="
-  email: "david_weiucheng@hotmail.com"
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/davidtan0527"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/DavidTan0527"
+  avatar: ""
+  bio: "A cs student"
+  email: "lauzhanming0@gmail.com"
 
 # Build settings
 theme: jekyll-text-theme
