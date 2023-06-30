@@ -169,19 +169,31 @@ exclude:
   - /vendor
 
 defaults:
+  ## posts
   - scope:
       path: ""
       type: posts
     values:
       layout: article
       sharing: true
-      license: true
       aside:
         toc: true
-      show_edit_on_github: false
-      show_subscribe: false
       pageview: true
 
+  ## rhpam
+  - scope:
+      path: "_rhpam/*"
+    values:
+      layout: article
+      sharing: true
+      license: false
+      sidebar:
+        nav: rhpam
+      aside:
+        toc: true
+      pageview: true
+
+include: ["_rhpam"]
 ## => Plugins
 ##############################
 plugins:

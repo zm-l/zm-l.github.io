@@ -1,52 +1,74 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Archive
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  归档
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  歸檔
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       아카이브
-      ko-KR   : *KO
-      fr      : &FR       Archives
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      tr      : &TR       Arşivdekiler
+      en: &EN Archive
+      en-GB: *EN
+      en-US: *EN
+      en-CA: *EN
+      en-AU: *EN
+      zh-Hans: &ZH_HANS 归档
+      zh: *ZH_HANS
+      zh-CN: *ZH_HANS
+      zh-SG: *ZH_HANS
+      zh-Hant: &ZH_HANT 歸檔
+      zh-TW: *ZH_HANT
+      zh-HK: *ZH_HANT
+      ko: &KO 아카이브
+      ko-KR: *KO
+      fr: &FR Archives
+      fr-BE: *FR
+      fr-CA: *FR
+      fr-CH: *FR
+      fr-FR: *FR
+      fr-LU: *FR
+      tr: &TR Arşivdekiler
       # @end locale config
     url: /archive.html
 
   - titles:
       # @start locale config
-      en      : &EN       About
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  关于
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  關於
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       소개
-      ko-KR   : *KO
-      fr      : &FR       À propos
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      tr      : &TR       Hakkında
+      en: &EN About
+      en-GB: *EN
+      en-US: *EN
+      en-CA: *EN
+      en-AU: *EN
+      zh-Hans: &ZH_HANS 关于
+      zh: *ZH_HANS
+      zh-CN: *ZH_HANS
+      zh-SG: *ZH_HANS
+      zh-Hant: &ZH_HANT 關於
+      zh-TW: *ZH_HANT
+      zh-HK: *ZH_HANT
+      ko: &KO 소개
+      ko-KR: *KO
+      fr: &FR À propos
+      fr-BE: *FR
+      fr-CA: *FR
+      fr-CH: *FR
+      fr-FR: *FR
+      fr-LU: *FR
+      tr: &TR Hakkında
       # @end locale config
     url: /about.html
+
+rhpam:
+  - title: Introduction
+    children:
+      - title: "Self-Learning Red Hat Process Automation Manager: A Dummy's Perspective"
+        url: /rhpam/introduction/
+  - title: "Quick Start"
+    children:
+      - title: "Environment Setup"
+        url: /rhpam/quick-start/environment-setup
+      - title: "Installation"
+        url: /rhpam/quick-start/installation
+  - title: "Making a Job Portal Business Process"
+    children:
+      - title: "Introduction to Business Central"
+        url: /rhpam/job-portal/introduction-to-business-central
+      - title: "Use Case For Job Portal"
+        url: /rhpam/job-portal/use-case-for-job-portal
+      - title: "Creating Data Objects"
+        url: /rhpam/job-portal/creating-data-objects
+      - title: "Building DMN in Business Central"
+        url: /rhpam/job-portal/building-dmn-in-business-central
