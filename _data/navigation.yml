@@ -72,3 +72,15 @@ rhpam:
         url: /rhpam/job-portal/creating-data-objects
       - title: "Building DMN in Business Central"
         url: /rhpam/job-portal/building-dmn-in-business-central
+      - title: "Test Case Design for DMN"
+        url: /rhpam/job-portal/test-case-design-for-dmn
+  - title: "Email workitem in JBPM"
+    children:
+      - title: "Setting up SMTP"
+        url: rhpam/email-workitem/setting-up-smtp
+      - title: "Create Email Custom Task"
+        url: rhpam/email-workitem/create-email-custom-task
+  - title: "Making a Job Portal Business Process Continued"
+    children:
+      - title: "Creating Business Process (BPMN)"
+        url: /rhpam/job-portal/creating-business-process
