@@ -55,7 +55,7 @@ rhpam:
   - title: Introduction
     children:
       - title: "Self-Learning Red Hat Process Automation Manager: A Dummy's Perspective"
-        url: /rhpam/introduction/
+        url: /rhpam/introduction
   - title: "Quick Start"
     children:
       - title: "Environment Setup"
@@ -83,4 +83,6 @@ rhpam:
   - title: "Making a Job Portal Business Process Continued"
     children:
       - title: "Creating Business Process (BPMN)"
-        url: /rhpam/job-portal/creating-business-process
+        url: rhpam/job-portal/creating-business-process
+      - title: "Deploy and Creating Process"
+        url: rhpam/job-portal/deploy-and-creating-process
