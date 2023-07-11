@@ -84,5 +84,9 @@ rhpam:
     children:
       - title: "Creating Business Process (BPMN)"
         url: rhpam/job-portal/creating-business-process
+      - title: "Users, Roles and Groups"
+        url: rhpam/job-portal/users-roles-and-groups
       - title: "Deploy and Creating Process"
         url: rhpam/job-portal/deploy-and-creating-process
+      - title: "Adding more tasks"
+        url: rhpam/job-portal/adding-more-tasks
