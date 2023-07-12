@@ -90,3 +90,7 @@ rhpam:
         url: rhpam/job-portal/deploy-and-creating-process
       - title: "Adding more tasks"
         url: rhpam/job-portal/adding-more-tasks
+  - title: "KIE Server Rest client API"
+    children:
+      - title: "Swagger UI"
+        url: rhpam/job-portal/swagger-ui
