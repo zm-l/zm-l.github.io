@@ -93,4 +93,10 @@ rhpam:
   - title: "KIE Server Rest client API"
     children:
       - title: "Swagger UI"
-        url: rhpam/job-portal/swagger-ui
+        url: rhpam/rest-api/swagger-ui
+  - title: "Utilizing API in Web App"
+    children:
+      - title: "Making A Web App"
+        url: rhpam/utilizing-rest-api-in-web-app/making-a-web-app
+      - title: "Register/Login"
+        url: rhpam/utilizing-rest-api-in-web-app/register-login
