@@ -94,7 +94,7 @@ rhpam:
     children:
       - title: "Swagger UI"
         url: rhpam/rest-api/swagger-ui
-  - title: "Utilizing API in Web App"
+  - title: "Extras - Utilizing REST API in Web App"
     children:
       - title: "Making A Web App"
         url: rhpam/utilizing-rest-api-in-web-app/making-a-web-app
