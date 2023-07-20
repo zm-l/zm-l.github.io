@@ -98,5 +98,7 @@ rhpam:
     children:
       - title: "Making A Web App"
         url: rhpam/utilizing-rest-api-in-web-app/making-a-web-app
+      - title: "Setting up Nginx Reverse Proxy"
+        url: hpam/utilizing-rest-api-in-web-app/setting-up-nginx-reverse-proxy
       - title: "Register/Login"
         url: rhpam/utilizing-rest-api-in-web-app/register-login
