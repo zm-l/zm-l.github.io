@@ -102,3 +102,5 @@ rhpam:
         url: rhpam/utilizing-rest-api-in-web-app/setting-up-nginx-reverse-proxy
       - title: "Register/Login"
         url: rhpam/utilizing-rest-api-in-web-app/register-login
+      - title: "Process Creation and Status"
+        url: rhpam/utilizing-rest-api-in-web-app/process-creation-and-status
