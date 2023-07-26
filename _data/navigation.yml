@@ -104,3 +104,5 @@ rhpam:
         url: rhpam/utilizing-rest-api-in-web-app/register-login
       - title: "Process Creation and Status"
         url: rhpam/utilizing-rest-api-in-web-app/process-creation-and-status
+      - title: "Showing and Completing Tasks"
+        url: rhpam/utilizing-rest-api-in-web-app/showing-and-completing-tasks
