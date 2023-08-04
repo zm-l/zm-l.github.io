@@ -106,3 +106,9 @@ rhpam:
         url: rhpam/utilizing-rest-api-in-web-app/process-creation-and-status
       - title: "Showing and Completing Tasks"
         url: rhpam/utilizing-rest-api-in-web-app/showing-and-completing-tasks
+  - title: "Extras - Java Client API"
+    children:
+      - title: "Create a project"
+        url: rhpam/java-client-api/create-a-project
+      - title: "Minimal Java Program"
+        url: rhpam/java-client-api/minimal-java-program
